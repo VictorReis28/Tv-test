@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Brasil",Canais BR 01
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/CanaisBR01.m3u8
+
+#EXTINF:-1 group-title="Brasil",Canais BR 02
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/CanaisBR02.m3u8
+
+#EXTINF:-1 group-title="Brasil",Canais BR 03
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/CanaisBR03.m3u8
+
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 1
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial1.m3u8
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 2
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial2.m3u8
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 3
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial3.m3u
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 4
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial4.m3u8
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 5
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial5.m3u
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 6
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial6.m3u
+
+#EXTINF:-1 group-title="Mundial",Lista Mundial 7
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/Lista%20Mundial7.m3u
+
+
+#EXTINF:-1 group-title="Operadoras",Vivo Fibra
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/VivoFibra.m3u8
